@@ -27,4 +27,6 @@ In this last section, we look at how to extend the information we can capture by
 
 **Note:** To be informed when new training resources are coming and to participate in shaping what new training resources are provided by Tim, sign up for the training announcements newsletter at [https://signup.iamtimcorey.com](https://signup.iamtimcorey.com "Training Announcements Newsletter")
 
+https://www.youtube.com/watch?v=2lAdQ_QwNww&feature=youtu.be
+
 
